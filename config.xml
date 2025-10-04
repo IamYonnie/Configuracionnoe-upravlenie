@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <vfs_path>./my_virtual_fs</vfs_path>
+    <startup_script>./scripts/startup.txt</startup_script>
+</configuration>
